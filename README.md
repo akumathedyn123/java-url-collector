@@ -9,10 +9,9 @@ This Java program extracts links from a list of URLs, saves the extracted links 
 3.  Use the following command to clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ExtractLinks.git
+git clone https://github.com/akumathedyn123/java-url-collector.git
 ```
 
-Replace `your-username` with your actual GitHub username.
 
 ### How to Run
 
