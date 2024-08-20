@@ -1,6 +1,6 @@
 ## ExtractLinks - A Java Web Crawler
 
-This Java program extracts links from a list of URLs, saves the extracted links to files, and removes the processed URLs from the input list.
+This Java program extracts links from a list of URLs, saves the extracted links to files, and removes the processed URLs from the input list. 
 
 ### How to Clone
 
