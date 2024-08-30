@@ -4,7 +4,7 @@ This Java program extracts links from a list of URLs, saves the extracted links 
 
 ### How to Clone
 
-1.  Open your terminal or command prompt.
+1.  Open your terminal or command prompt. 
 2.  Navigate to the directory where you want to clone the repository.
 3.  Use the following command to clone the repository:
 
